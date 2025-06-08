@@ -1,0 +1,1 @@
+Java console app that simulates an ordering and nutrition system for a fictional FSC Chick-fil-A. Users can place multi-item orders, apply discounts, view nutritional info, and get receipts. Built using clean OOP design, method decomposition, and input validation.
